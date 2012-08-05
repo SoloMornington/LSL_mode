@@ -1,0 +1,5 @@
+BUGS:
+
+(squash them!)
+
+event and function regex fails if coments are outside the brackets.

@@ -1,0 +1,11 @@
+LSL.mode is a syntax coloring 'mode' for Coda and SubEthaEdit text editors for
+Macintosh. This mode only works with Coda 1, and is not updated for Coda 2.
+
+This mode was originally written by Mark Lentczner, and updated by
+Solo Mornington.
+
+You can find information about using external text editors for LSL here:
+
+http://wiki.secondlife.com/wiki/LSL_Alternate_Editors#SubEthaEdit_.5BC.5D
+
+What is LSL? Ask wikipedia: http://en.wikipedia.org/wiki/Linden_Scripting_Language
